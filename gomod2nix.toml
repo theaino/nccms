@@ -1,0 +1,6 @@
+schema = 3
+
+[mod]
+  [mod."github.com/gomarkdown/markdown"]
+    version = "v0.0.0-20250810172220-2e2c11897d1a"
+    hash = "sha256-DEVYXsGwyqgTwvxkqs7RDQVF6HpPO4zMW9jyAPg27I4="
